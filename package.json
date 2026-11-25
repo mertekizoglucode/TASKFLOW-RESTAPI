@@ -1,0 +1,16 @@
+{
+  "name": "taskflow",
+  "version": "1.0.0",
+  "description": "Node.js ve Express.js ile geliştirilmiş görev yönetimi REST API projesi.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Mustafa Mert Ekizoğlu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
